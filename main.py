@@ -359,7 +359,7 @@ def formatar_mensagem(produto: dict) -> str:
         f"🔗 {link}\n\n"
         f"{nome_canal}\n"
         f"{link_canal}\n\n"
-        f"#Anuncio #DivulgaPromos"
+        f"#Anuncio #Silva Promos"
     )
 
 def enviar_telegram(mensagem: str, imagem_url: str = None):
